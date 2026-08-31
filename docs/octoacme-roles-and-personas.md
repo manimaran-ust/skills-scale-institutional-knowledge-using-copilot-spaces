@@ -93,10 +93,10 @@ Scrum Masters facilitate agile ceremonies, remove team impediments, and coach th
 - Foster a culture of continuous improvement
 
 ### Interactions with Other Roles
-- Works closely with Project Manager to manage backlog priorities and address blocking issues
+- Works closely with Project Manager to coordinate ceremonies, delivery pacing, and blocking issues
 - Supports Developers through coaching and ceremony facilitation
 - Partners with Product Manager to maintain backlog clarity and acceptance criteria
-- Escalates organizational blockers that require PM or leadership intervention
+- Escalates organizational blockers that require Stakeholder / Sponsor or leadership intervention
 
 ### Typical Communication
 - Daily standups and sprint retrospectives
@@ -296,7 +296,7 @@ DevOps/Release Managers manage infrastructure, deployment pipelines, and release
 
 ---
 
-## How these personas are used in the exercise
-- Use these persona definitions to frame scenarios and sample interactions in the Skills Exercise.
+## How these personas are used
+- Use these persona definitions to frame scenarios, sample interactions, and cross-functional collaboration patterns in the Skills Exercise.
 - Each persona can be used as a persona prompt for Copilot Spaces to shape role-specific guidance.
 - Refer to the "Interactions with Other Roles" sections to understand cross-functional dependencies and communication patterns.
